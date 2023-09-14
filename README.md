@@ -6,7 +6,7 @@ A simple and light scipt that will say N-Word in TF2 after you execute it using 
 ![Size 6.40 MB](https://img.shields.io/badge/Size-6.40MB-green
 )
 
-## Preparing
+## Installation
 
 1. First of all you need to change your TF2 language to English
 2. Pick Demoman
