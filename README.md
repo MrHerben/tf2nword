@@ -15,7 +15,7 @@ A simple and light scipt that will say N-Word in TF2 after you execute it using 
 5. Run the script, press bind (by default its "j") and enjoy!
 ## Configuring
 
-Find settings.json in folder of the scipt and open as text file.
+Find settings.json in folder of the script and open it as text file.
 
 It's will look like this
 
