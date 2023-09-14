@@ -1,6 +1,6 @@
 # [TF2] Saying N-Word using voiceline script
 
-A simple and light scipt that will say N-Word in TF2 after you execute it using bind
+A simple and light script that will say N-Word in TF2 after you execute it using bind
 
 
 ![Size 6.40 MB](https://img.shields.io/badge/Size-6.40MB-green
