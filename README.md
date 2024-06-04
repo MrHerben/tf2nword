@@ -6,6 +6,9 @@ A simple and light script that will say N-Word in TF2 after you execute it using
 ![Size 6.40 MB](https://img.shields.io/badge/Size-6.40MB-green
 )
 
+## Preview
+<video src='https://github.com/MrHerben/tf2nword/blob/main/preview.mp4' width=180/>
+
 ## Installation
 
 1. First of all you need to change your TF2 language to English
