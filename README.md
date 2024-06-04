@@ -7,7 +7,8 @@ A simple and light script that will say N-Word in TF2 after you execute it using
 )
 
 ## Preview
-https://github.com/MrHerben/tf2nword/raw/main/preview.mp4
+
+https://github.com/MrHerben/tf2nword/assets/92934389/4bcdac91-3ab4-494a-8465-8486fef243fb
 
 ## Installation
 
